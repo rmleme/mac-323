@@ -1,0 +1,2 @@
+gcc -g -I. -c ep1.c
+gcc -L. ep1.o -lm -o ep1
